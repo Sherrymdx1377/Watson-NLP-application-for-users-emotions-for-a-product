@@ -19,6 +19,3 @@ In this project, we will walk through the process of building an application tha
 - Build a simple but real functional application
 
 # App Demo: https://review-sentiment-app.xs6r134s1i6.us-east.codeengine.appdomain.cloud/
-
-# Index page: 
-["C:\Users\sherr\OneDrive - Middlesex University\Desktop\18.png"](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX01V6EN/images/18.png)https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX01V6EN/images/18.png
